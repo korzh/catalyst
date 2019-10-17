@@ -1,0 +1,7 @@
+Introduction
+
+If in short, EasyQuery - a set of components that allow you (as a developer) to implement a functional, user-friendly query builder in your application.
+
+Any modern application typically operates with a certain set of data. Here we are talking about almost any type of applications: the classic desktop programs, web applications or applications for different mobile platforms.
+
+All functionality of any program can be divided into two main components: either it is data entry or retrieval. If the first part is more or less clear, the second involves many different aspects: it is searching, sorting, filtering, reporting, statistics, etc. One thing unites all these subsystems: the users usually require some way to specify what data they need. For example: for what period, for which client, product, employee, etc. Most often, program data are stored in a kind of relational database (SQL Server, MySQL, Access, SQLite, etc.) and support the SQL query language, or some variation of it (HQL, Entity SQL, etc.). Besides, in recent years so-called No-SQL databases become very popular. Many of them have their query languages.

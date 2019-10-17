@@ -1,6 +1,6 @@
 variables:
   solution: '**/*.sln'
-  project:  './Catalyst/Catalyst.csproj'
+  project:  './lib/Catalyst/Catalyst.csproj'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
